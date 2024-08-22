@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'u2nics'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D0443636F174E0A897CF0E2377AD221 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99749B555E2E45C3BB75E0667B367BD5 }}
